@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Takas.Protocol/Takas.Protocol.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Takas.Protocol.Tests/Takas.Protocol.Tests.csproj" />
+  </Folder>
+</Solution>
